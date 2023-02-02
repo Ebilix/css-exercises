@@ -22,6 +22,14 @@
 
 #myID1 {
     font-size: 36px;
-    color: rgb(0,0,255);
-    background-color: rgb(255,255,255)
+    color: rgb(0,0,225);
+    background-color: rgb(225,225,225)
+}
+
+#myID2 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(0,0,0);
+    background-color: rgba(0,225,0,0.3);
 }
