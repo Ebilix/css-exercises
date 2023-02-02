@@ -5,3 +5,15 @@
     background-color: rgba(225,0,0,0.3);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
+
+/* rule2 */
+
+.odd-number1 .odd-number3 {
+    font-size: 18px;
+}
+
+/* rule3 */
+
+.odd-number2 {
+    font-size: 24px;
+}
