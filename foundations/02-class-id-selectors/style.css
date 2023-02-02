@@ -1,0 +1,7 @@
+/* rule1 */
+
+.odd-number* {
+    color: black;
+    background-color: rgba(225,0,0,0.3);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
