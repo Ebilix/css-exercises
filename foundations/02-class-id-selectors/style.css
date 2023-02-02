@@ -17,3 +17,11 @@
 .odd-number2 {
     font-size: 24px;
 }
+
+/* rule4 */
+
+#myID1 {
+    font-size: 36px;
+    color: rgb(0,0,255);
+    background-color: rgb(255,255,255)
+}
