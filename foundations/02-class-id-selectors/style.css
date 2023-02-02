@@ -1,6 +1,6 @@
 /* rule1 */
 
-.odd-number* {
+.odd-number {
     color: rgb(0,0,0);
     background-color: rgba(225,0,0,0.3);
     font-family: Verdana, DejaVu Sans, sans-serif;
