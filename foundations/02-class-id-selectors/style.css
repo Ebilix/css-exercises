@@ -1,15 +1,14 @@
 /* rule1 */
 
 .odd-number {
-    color: rgb(0,0,0);
     background-color: rgba(225,0,0,0.3);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 /* rule2 */
 
-.adjust-font {
-    font-size: 28px;
+.adjust-font-size {
+    font-size: 24px;
 }
 
 /* rule3 */
