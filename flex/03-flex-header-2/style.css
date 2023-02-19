@@ -19,7 +19,9 @@ body {
 }
 
 /* style the left-side elements */
-
+.left {
+  display: flex;
+}
 
 .profile-image {
   background: rebeccapurple;
