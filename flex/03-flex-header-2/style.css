@@ -21,6 +21,7 @@ body {
 /* style the left-side elements */
 .left {
   display: flex;
+  align-items: center;
 }
 
 .profile-image {
