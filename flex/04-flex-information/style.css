@@ -8,6 +8,9 @@ body {
   align-items: center;
 }
 
+.title{
+  padding: 32px;
+}
 img {
   width: 100px;
   height: 100px;
