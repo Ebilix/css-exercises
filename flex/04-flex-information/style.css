@@ -11,6 +11,8 @@ body {
 .content {
   display: flex;
   width: 200px;
+  gap: 52px;
+  justify-content: space-around;
 }
 
 img {
