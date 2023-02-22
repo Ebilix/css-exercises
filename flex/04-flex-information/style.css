@@ -17,6 +17,7 @@ body {
 }
 
 .item {
+  flex-wrap: wrap;
 }
 
 img {
