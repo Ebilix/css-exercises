@@ -12,11 +12,8 @@ body {
   display: flex;
   gap: 52px;
   justify-content: space-around;
-  margin: auto;
-}
-
-.item {
-  justify-content: center;
+  margin-left: 52px;
+  margin-right: 52px;
 }
 
 img {
