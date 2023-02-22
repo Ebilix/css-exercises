@@ -8,9 +8,6 @@ body {
   align-items: center;
 }
 
-.title{
-  padding: 32px;
-}
 img {
   width: 100px;
   height: 100px;
@@ -19,6 +16,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  padding: 32px;
 }
 
 /* do not edit this footer */
