@@ -24,8 +24,10 @@ body {
 }
 
 .text {
+  
   flex-wrap: wrap;
   margin: auto;
+  width: 200px;
 }
 
 img {
