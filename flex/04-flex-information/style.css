@@ -21,13 +21,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 200px;
 }
 
 .text {
   display: flex;
   flex-wrap: wrap;
   margin: auto;
-  width: 200px;
 }
 
 img {
