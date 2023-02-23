@@ -7,14 +7,6 @@ body {
   display: flex;
 }
 
-.content {
-  display: flex;
-  gap: 52px;
-  justify-content: space-around;
-  margin-left: 52px;
-  margin-right: 52px;
-}
-
 .item {
   display: flex;
   flex-direction: column;
