@@ -11,12 +11,6 @@ body {
  max-width: 200px; 
 }
 
-.text {
-  display: flex;
-  flex-wrap: wrap;
-  margin: auto;
-}
-
 img {
   width: 100px;
   height: 100px;
