@@ -21,6 +21,10 @@ body {
   flex-wrap: wrap;
 }
 
+.text {
+  flex-wrap: wrap;
+}
+
 img {
   width: 100px;
   height: 100px;
