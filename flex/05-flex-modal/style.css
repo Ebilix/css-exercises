@@ -70,7 +70,7 @@ button.cancel {
 .modal {
   display: flex;
   gap: 12px;
-  padding: 8px;
+  padding: 12px;
 }
 
 .info {
