@@ -76,5 +76,9 @@ button.cancel {
 .info {
   display: flex;
   justify-content: space-between;
-  margin: 8px;
+  margin-bottom: 8px;
+}
+
+.button {
+  margin-top: 8px;
 }
