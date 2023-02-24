@@ -40,6 +40,7 @@ body {
 
 ul {
   list-style: none;
+  display: flex;
 }
 
 a:link { text-decoration: none;}
