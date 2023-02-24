@@ -27,3 +27,8 @@ input {
 }
 
 /* My solution */
+
+body {
+  display: flex;
+  flex-direction: column;
+}
