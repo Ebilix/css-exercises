@@ -8,7 +8,7 @@ body {
 }
 
 img {
-  width: 600px;
+  width: 300px;
 }
 
 button {
@@ -22,7 +22,7 @@ input {
   border: 1px solid #ddd;
   border-radius: 16px;
   padding: 8px 24px;
-  width: 400px;
+  width: 200px;
   margin-bottom: 8px;
 }
 
