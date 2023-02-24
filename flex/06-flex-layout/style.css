@@ -57,6 +57,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  background-color: #eeeeee;
 }
 
 a:link { text-decoration: none;}
