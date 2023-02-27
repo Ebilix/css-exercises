@@ -40,5 +40,8 @@ body {
   font-weight: 900;
   padding-left: 16px;
   align-items: center;
+}
 
-.contain  
+.container {
+  display: flex;
+}
