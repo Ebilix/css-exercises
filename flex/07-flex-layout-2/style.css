@@ -41,4 +41,6 @@ body {
   padding-left: 16px;
   align-items: center;
 
-.content { }
+.container { 
+  display: flex;
+}
