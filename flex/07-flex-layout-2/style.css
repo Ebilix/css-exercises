@@ -46,3 +46,8 @@ body {
   display: flex;
   flex: 1;
 }
+
+.sidebar{
+  width: 300px;
+  flex: 0;
+}
