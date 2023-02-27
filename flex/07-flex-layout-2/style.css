@@ -37,4 +37,6 @@ body {
 .header {
   font-size: 32px;
   font-weight: 900;
+  padding-left: 16px;
+  align-items: center;
 }
